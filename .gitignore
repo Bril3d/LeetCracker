@@ -1,0 +1,31 @@
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# Dependency directories
+/bin/
+/lib/
+/include/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Other
+.DS_Store
+
+.env
+solved_problems.json
+cookies.pkl
