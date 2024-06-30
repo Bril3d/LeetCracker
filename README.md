@@ -197,6 +197,15 @@ cd LeetCracker
 > pip install -r requirements.txt
 ```
 
+### Environment Variables
+
+Create a .env file in the root directory and add your Leetcode username and password
+
+```sh
+LEETCODE_USERNAME=your_username
+LEETCODE_PASSWORD=your_password
+```
+
 ### 🤖 Running 
 
 Use the following command to run :
