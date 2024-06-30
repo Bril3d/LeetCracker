@@ -1,13 +1,8 @@
-
- __                              __       ______                                __                           
-/  |                            /  |     /      \                              /  |                          
-$$ |        ______    ______   _$$ |_   /$$$$$$  |  ______   ______    _______ $$ |   __   ______    ______  
-$$ |       /      \  /      \ / $$   |  $$ |  $$/  /      \ /      \  /       |$$ |  /  | /      \  /      \ 
-$$ |      /$$$$$$  |/$$$$$$  |$$$$$$/   $$ |      /$$$$$$  |$$$$$$  |/$$$$$$$/ $$ |_/$$/ /$$$$$$  |/$$$$$$  |
-$$ |      $$    $$ |$$    $$ |  $$ | __ $$ |   __ $$ |  $$/ /    $$ |$$ |      $$   $$<  $$    $$ |$$ |  $$/ 
-$$ |_____ $$$$$$$$/ $$$$$$$$/   $$ |/  |$$ \__/  |$$ |     /$$$$$$$ |$$ \_____ $$$$$$  \ $$$$$$$$/ $$ |      
-$$       |$$       |$$       |  $$  $$/ $$    $$/ $$ |     $$    $$ |$$       |$$ | $$  |$$       |$$ |      
-$$$$$$$$/  $$$$$$$/  $$$$$$$/    $$$$/   $$$$$$/  $$/       $$$$$$$/  $$$$$$$/ $$/   $$/  $$$$$$$/ $$/       
+<p align="center">
+░▒█░░░░█▀▀░█▀▀░▀█▀░█▀▄░█▀▀▄░█▀▀▄░█▀▄░█░▄░█▀▀░█▀▀▄
+░▒█░░░░█▀▀░█▀▀░░█░░█░░░█▄▄▀░█▄▄█░█░░░█▀▄░█▀▀░█▄▄▀
+░▒█▄▄█░▀▀▀░▀▀▀░░▀░░▀▀▀░▀░▀▀░▀░░▀░▀▀▀░▀░▀░▀▀▀░▀░▀▀
+</p>
 
 
 <p align="center">
@@ -31,7 +26,6 @@ $$$$$$$$/  $$$$$$$/  $$$$$$$/    $$$$/   $$$$$$/  $$/       $$$$$$$/  $$$$$$$/ $
 	<img src="https://img.shields.io/badge/Pydantic-E92063.svg?style=flat&logo=Pydantic&logoColor=white" alt="Pydantic">
 	<img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat&logo=SciPy&logoColor=white" alt="SciPy">
 	<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white" alt="Selenium">
-	<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=OpenAI&logoColor=white" alt="OpenAI">
 	<br>
 	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
 	<img src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=flat&logo=AIOHTTP&logoColor=white" alt="AIOHTTP">
@@ -49,8 +43,7 @@ $$$$$$$$/  $$$$$$$/  $$$$$$$/    $$$$/   $$$$$$/  $$/       $$$$$$$/  $$$$$$$/ $
 > - [🧩 Modules](#-modules)
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
->   - [🤖 Running ](#-running-)
->   - [🧪 Tests](#-tests)
+>   - [🤖 Running ](#-running)
 > - [🛠 Project Roadmap](#-project-roadmap)
 > - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
