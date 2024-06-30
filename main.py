@@ -19,8 +19,8 @@ $$$$$$$$/  $$$$$$$/  $$$$$$$/    $$$$/   $$$$$$/  $$/       $$$$$$$/  $$$$$$$/ $
                                                                                                              """
     print(Fore.RED + ascii_art)
     print(Fore.GREEN + "Choose an option:")
-    print("1. Run LeetcoderSolver")
-    print("2. Run LeetcoderScraper")
+    print("1. Run LeetcodeSolver")
+    print("2. Run LeetcodeScraper")
     choice = input(Fore.GREEN + "Enter your choice (1 or 2): ")
 
     if choice == "1":

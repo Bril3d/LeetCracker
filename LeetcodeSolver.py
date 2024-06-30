@@ -5,11 +5,7 @@ import logging
 import clipboard
 import os
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
 from utils.utils import (
     get_element_by_xpath,
     get_elements_by_xpath,
@@ -155,10 +151,10 @@ class LeetcodeSolver:
                 logger.info(f"[SOLVED_EARLIER]: {problem_name}")
 
     def solve(self):
-        logger.info("<<<< Starting Leetcoder Solver >>>>")
+        logger.info("<<<< Starting  Solver >>>>")
         all_problems_name = FileManager.get_all_problems_names()
         self.solve_problems(all_problems_name)
-        logger.info("<<<< Exiting Leetcoder Solver >>>>")
+        logger.info("<<<< Exiting Leetcode Solver >>>>")
 
 
 if __name__ == "__main__":

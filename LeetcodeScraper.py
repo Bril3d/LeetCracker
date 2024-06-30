@@ -1,4 +1,5 @@
 import json
+import os
 import logging
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
@@ -30,6 +31,7 @@ class LeetcodeScraper:
         login(self.driver)
 
     def save_scraped_solution(self, file_content):
+        os.makedirs("./problems", exist_ok=True)
         with open(f"./problems/{file_content['problemName']}.json", "w") as f:
             json.dump(file_content, f)
 
@@ -98,9 +100,9 @@ class LeetcodeScraper:
                 break
 
     def scrape_accepted_solutions(self):
-        logger.info("<<<< Starting Leetcoder Scraper >>>>")
+        logger.info("<<<< Starting Leetcode Scraper >>>>")
         self.scrape_code_from_all_submissions()
-        logger.info("<<<< Exiting Leetcoder Scraper >>>>")
+        logger.info("<<<< Exiting Leetcode Scraper >>>>")
 
 
 if __name__ == "__main__":

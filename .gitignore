@@ -26,6 +26,5 @@ env/
 # Other
 .DS_Store
 
-.env
 solved_problems.json
-cookies.pkl
+cookies.json
