@@ -108,6 +108,7 @@ With Leetcracker, you can automatically log in, solve, and scrape Leetcode quest
     │   ├── bitwise-xor-of-all-pairings.json
     │   ├── boats-to-save-people.json
     │   └── break-a-palindrome.json
+	└── +1000
     ├── requirements.txt
     └── utils
         └── utils.py
@@ -155,7 +156,7 @@ With Leetcracker, you can automatically log in, solve, and scrape Leetcode quest
 | [binary-tree-pruning.json](https://github.com/Bril3d/LeetCracker/blob/master/problems/binary-tree-pruning.json)                                           |  `problems/binary-tree-pruning.json`                      |
 | [binary-tree-maximum-path-sum.json](https://github.com/Bril3d/LeetCracker/blob/master/problems/binary-tree-maximum-path-sum.json)                         |  `problems/binary-tree-maximum-path-sum.json`             |
 | [boats-to-save-people.json](https://github.com/Bril3d/LeetCracker/blob/master/problems/boats-to-save-people.json)                                         |  `problems/boats-to-save-people.json`                     |
-
+| +1000                                         |  `problems/+1000`                     |
 </details>
 
 <details closed><summary>utils</summary>
