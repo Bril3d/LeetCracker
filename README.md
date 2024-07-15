@@ -112,6 +112,7 @@ With Leetcracker, you can automatically log in, solve, and scrape Leetcode quest
     ├── requirements.txt
     └── utils
         └── utils.py
+	└── file_manager.py
 ```
 
 ---
@@ -164,6 +165,7 @@ With Leetcracker, you can automatically log in, solve, and scrape Leetcode quest
 | File                                                                         | Summary                                    |
 | ---                                                                          | ---                                        |
 | [utils.py](https://github.com/Bril3d/LeetCracker/blob/master/utils/utils.py) |  `utils/utils.py` |
+| [file_manager.py](https://github.com/Bril3d/LeetCracker/blob/master/utils/file_manager.py) |  `utils/file_manager.py` |
 
 </details>
 
